@@ -1,5 +1,17 @@
 @import "tailwindcss";
 
 body {
-  background-color: #f2e3de;
+  background-color: #3d3c3b;
+}
+
+.baskervville-regular {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.baskervville-regular-italic {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: italic;
 }
